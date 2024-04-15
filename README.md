@@ -49,6 +49,11 @@ plt.show()
 <img src="https://github.com/KaburauNero/lab06IA/assets/92650933/191db6d6-3ab3-4461-8cad-c9e0d8613924" width="500px" />
 </div>
 
+### Matriz de Confusão sem PCA
+<div align="center">
+<img src="https://github.com/KaburauNero/lab06IA/assets/92650933/afcbeba4-d5d3-4285-b33e-be30db588527" width="600px" />
+</div>
+
 ### Cógido Iris Data sem PCA
 
 ```python
@@ -75,6 +80,11 @@ plt.show()
 <div align="center">
 <img src="https://github.com/KaburauNero/lab06IA/assets/92650933/f5e3853d-2db0-4ecb-a7e8-004fe508b98f" width="300px" />
 <img src="https://github.com/KaburauNero/lab06IA/assets/92650933/60fc0aa7-30b7-4ef3-853e-ef3137d61da0" width="500px" />
+</div>
+
+### Matriz de Confusão sem PCA
+<div align="center">
+<img src="https://github.com/KaburauNero/lab06IA/assets/92650933/d3ce3e9c-bb1f-43de-9581-f35933a9a98a" width="600px" />
 </div>
 
 ## Conclusão
